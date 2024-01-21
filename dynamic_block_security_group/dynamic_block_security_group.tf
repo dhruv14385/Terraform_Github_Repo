@@ -1,3 +1,5 @@
+//This file uses dynamic block to create a security group with ingress rules for port 443 and 80
+
 resource "aws_security_group" "main" {
    name   = "resource_with_dynamic_block"
    //vpc_id = data.aws_vpc.main.id

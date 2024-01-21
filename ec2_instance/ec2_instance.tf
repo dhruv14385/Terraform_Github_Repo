@@ -1,4 +1,4 @@
-
+//This is a simple file creating ec2 instance. AWS credentials and default region are set as environment variables.
 
 # provider "aws" {
 #   region     = "us-east-1"
