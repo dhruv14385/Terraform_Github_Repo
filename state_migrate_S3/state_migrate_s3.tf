@@ -1,4 +1,4 @@
-//This file will create and ec2 instance and the state file will be created in an S3 bucket instead of local machine. 
+//This file will create an ec2 instance and the state file will be created in an S3 bucket instead of local machine. 
 
 provider "aws" {
   region     = "us-east-1"
