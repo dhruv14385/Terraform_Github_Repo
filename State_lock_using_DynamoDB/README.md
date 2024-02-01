@@ -1,0 +1,1 @@
+Create S3 bucket and DynamoDB table in AWS. Do init and plan for Project 1. Do apply but don't day yes. Put it aside. Then try to run init and plan for project 2. You won't be able to run plan because the state is locked.
